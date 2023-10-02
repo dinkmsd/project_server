@@ -1,0 +1,20 @@
+{
+    "coordinates": {
+        "lat": 10.876280457182771,
+        "lon": 106.80457763960801
+    },
+    "history": [
+        {
+            "temperature": 32,
+            "humidity": 20,
+            "light": 30,
+            "dateTime": "2023-09-24T12:00:00Z"
+        },
+        {
+            "temperature": 29,
+            "humidity": 19,
+            "light": 30,
+            "dateTime": "2023-09-24T11:00:00Z"
+        }
+    ]
+}
